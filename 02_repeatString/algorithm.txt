@@ -1,0 +1,11 @@
+problem:
+
+write function that concatenates a passed string to itself as many times as provided by 2nd argument
+
+algorithm:
+
+create function with args string and repititions
+place string in array
+for index I being less than repititions, increment
+	push string as new array member
+return array but as string
